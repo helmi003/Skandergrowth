@@ -1,0 +1,273 @@
+{
+  "Metadata": {
+    "siteName": "Skander Ben Jannette",
+    "defaultTitle": "Skander Ben Jannette — Performance Marketer & Media Buyer",
+    "defaultDescription": "Better ads. More customers. Measurable growth. I help companies and stores build and manage Meta, Google and TikTok campaigns focused on real business outcomes."
+  },
+  "Nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "caseStudies": "Case Studies",
+    "companies": "Companies",
+    "testimonials": "Testimonials",
+    "insights": "Insights",
+    "contact": "Contact",
+    "cta": "Get in touch",
+    "results": "Results"
+  },
+  "Hero": {
+    "eyebrow": "Media Buyer & Performance Marketer",
+    "title": "Better ads. More customers. Measurable growth.",
+    "subtitle": "I help companies and stores build and manage Meta, Google and TikTok campaigns — focused on real business results, from the first click to conversion.",
+    "chips": [
+      "Meta Ads",
+      "Google Ads",
+      "TikTok Ads",
+      "Tracking & Optimization"
+    ],
+    "ctaPrimary": "Request a free campaign audit",
+    "ctaSecondary": "Book a call",
+    "ctaCaption": "We'll review your current setup and identify the biggest opportunities to improve your results.",
+    "available": "Available for new projects",
+    "statRoas": "ROAS — Snapchat",
+    "statPurchases": "purchases in 19 days"
+  },
+  "SocialProof": {
+    "title": "Trusted across markets and industries"
+  },
+  "PainPoints": {
+    "title": "If any of this sounds familiar, the problem usually isn't your budget.",
+    "items": [
+      "You're spending on ads, but sales aren't growing at the same pace.",
+      "Your cost per acquisition keeps rising over time.",
+      "You keep changing creative or audiences without knowing the real reason results are weak.",
+      "Your campaigns perform well, but you don't know how to scale them without hurting performance."
+    ],
+    "closing": "Ads alone don't create growth.",
+    "closingBold": "Strategy + creative + tracking + continuous optimization is what drives real growth."
+  },
+  "Story": {
+    "eyebrow": "My story",
+    "title": "From running ads to building marketing systems",
+    "paragraphs": [
+      "I started in digital marketing managing social media pages and paid advertising, and over time specialized further in performance marketing and media buying.",
+      "I've worked across sectors and markets — e-commerce, services, education and more.",
+      "With every campaign, I learned the problem is rarely the ad itself; it's often the offer, the funnel, the tracking, or how leads are converted into customers.",
+      "That's why my work today isn't limited to running ads."
+    ],
+    "goal": "My goal is to build a marketing system that's measurable, optimizable and scalable."
+  },
+  "Solution": {
+    "eyebrow": "The process",
+    "title": "From strategy to scale",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Audit & Analysis",
+        "description": "We review your ad accounts, tracking systems, conversion funnel and creative performance to identify strengths and sources of waste."
+      },
+      {
+        "number": "02",
+        "title": "Strategy",
+        "description": "We define the target audience, the offer, the right channels and campaign structure aligned with your business goals."
+      },
+      {
+        "number": "03",
+        "title": "Launch",
+        "description": "We build the campaigns, set up tracking systems, and put a clear framework in place for testing and measuring performance."
+      },
+      {
+        "number": "04",
+        "title": "Optimization",
+        "description": "We analyze data continuously, cut what isn't working, develop what performs well, and test new growth opportunities."
+      },
+      {
+        "number": "05",
+        "title": "Scale",
+        "description": "Once we reach a winning, repeatable formula, we increase budget gradually and deliberately, while protecting performance."
+      }
+    ]
+  },
+  "Services": {
+    "eyebrow": "Services",
+    "title": "What I can help you with",
+    "viewAll": "View all services",
+    "problemLabel": "The problem",
+    "deliverablesLabel": "What's included",
+    "learnMore": "Learn more",
+    "relatedCaseStudy": "Related case study"
+  },
+  "Companies": {
+    "eyebrow": "Companies & industries",
+    "title": "Brands and businesses I've worked with",
+    "subtitle": "Across e-commerce, services, education and home-service industries in the Gulf, North Africa and beyond."
+  },
+  "CaseStudies": {
+    "eyebrow": "Case studies",
+    "title": "Projects with measurable results",
+    "objective": "Objective",
+    "strategy": "Strategy",
+    "approach": "Approach",
+    "result": "Result",
+    "market": "Market",
+    "industry": "Industry",
+    "viewCaseStudy": "View case study",
+    "viewAll": "View all case studies",
+    "evidence": "Campaign evidence"
+  },
+  "Results": {
+    "eyebrow": "Real results",
+    "title": "Numbers straight from the ad accounts",
+    "subtitle": "Real screenshots from Meta, Google, TikTok, Snapchat and tracking tools — unedited.",
+    "all": "All",
+    "close": "Close",
+    "prev": "Previous",
+    "next": "Next",
+    "zoom": "Enlarge image",
+    "showMore": "Show more",
+    "showLess": "Show less"
+  },
+  "Testimonials": {
+    "eyebrow": "Client feedback",
+    "title": "What clients say",
+    "intro": "I'm not the one saying I deliver results — my clients are the ones talking about their experience.",
+    "note": "Results matter, but the client experience and how we work together matter just as much.",
+    "sourceLabel": "Verified review on",
+    "mostaqlTitle": "Want to see more?",
+    "mostaqlText": "All reviews and projects are verified on Mostaql.",
+    "mostaqlReviews": "All reviews on Mostaql",
+    "mostaqlPortfolio": "Portfolio on Mostaql"
+  },
+  "WhyMe": {
+    "eyebrow": "Why work with me",
+    "title": "Not just a media buyer",
+    "description": "This answers the question every potential client is really asking: \"why should I choose you?\"",
+    "chainTitle": "A complete system, not just ads",
+    "chain": [
+      {
+        "title": "Business Goal",
+        "description": "We start from the number you actually care about: sales, leads or bookings."
+      },
+      {
+        "title": "Marketing Strategy",
+        "description": "Audience, offer and channels are defined before a single dollar is spent."
+      },
+      {
+        "title": "Creative",
+        "description": "Angles and messages we test to learn what really convinces your audience."
+      },
+      {
+        "title": "Paid Ads",
+        "description": "Meta, Google, TikTok and Snapchat campaigns with a clear, scalable structure."
+      },
+      {
+        "title": "Tracking",
+        "description": "Pixel, Conversions API and app events, so every number can be trusted."
+      },
+      {
+        "title": "Optimization",
+        "description": "Cut the waste, double down on what works, and scale with confidence."
+      }
+    ],
+    "typicalTitle": "A typical media buyer",
+    "typical": [
+      "Launches ads and waits for results",
+      "Focuses on clicks and likes",
+      "Changes ads without knowing the real cause",
+      "Sends numbers without clear recommendations"
+    ],
+    "meTitle": "Working with me",
+    "me": [
+      "We start from your business goal",
+      "Focus on sales, CPA and ROAS",
+      "Every decision backed by reliable tracking",
+      "A clear plan: what to pause, improve, and when to scale"
+    ],
+    "closing": "Success isn't measured by clicks. It's measured by business outcomes.",
+    "dataDriven": "Data-driven decisions"
+  },
+  "WhoIWorkWith": {
+    "eyebrow": "Who I work with",
+    "title": "Is this a fit?",
+    "fitTitle": "I'm likely a good fit if:",
+    "fit": [
+      "You have an existing business and want to grow it.",
+      "You have a clear product or service.",
+      "You're ready to invest in marketing.",
+      "You want to make decisions based on data.",
+      "You have a genuine ambition to scale."
+    ],
+    "notFitTitle": "Probably not a fit if:",
+    "notFit": [
+      "You're looking for someone to just \"run ads\" with no strategy.",
+      "You want guaranteed results without testing.",
+      "You don't have a clear offer yet."
+    ]
+  },
+  "FinalCta": {
+    "title": "Imagine knowing exactly where your ad budget is being wasted.",
+    "instead": "Instead of asking \"should I increase the budget?\", you'd know:",
+    "questions": [
+      "Which audience to expand?",
+      "Which creative to pause?",
+      "Which campaign deserves to scale?",
+      "Where in the funnel you're losing customers?"
+    ],
+    "closing": "That's the role I want to play alongside you.",
+    "description": "Let's review your marketing strategy, analyze your ad performance, and identify the opportunities that can help you achieve better growth.",
+    "ctaPrimary": "Book a call",
+    "whatsappNote": "Fast reply on WhatsApp"
+  },
+  "About": {
+    "eyebrow": "About",
+    "title": "Skander Ben Jannette",
+    "role": "Media Buyer & Performance Marketer",
+    "photoPlaceholder": "Photo coming soon",
+    "specializationsTitle": "What I specialize in",
+    "specializations": [
+      "Meta Ads",
+      "Google Ads",
+      "TikTok Ads",
+      "Tracking & Optimization",
+      "Performance Marketing",
+      "Marketing Strategy"
+    ],
+    "howIWorkTitle": "How I work",
+    "howIWork": "Audit, strategy, launch, optimization, scale — every engagement follows the same disciplined process, backed by tracking that shows exactly what's working.",
+    "whoIHelpTitle": "Who I help",
+    "whoIHelp": "Companies and stores across e-commerce, services, education and home-service industries who have a real business and a clear offer, and want to grow it with data, not guesswork."
+  },
+  "Insights": {
+    "eyebrow": "Insights",
+    "title": "Marketing insights",
+    "subtitle": "Notes on performance marketing, media buying and paid ads — coming soon.",
+    "empty": "New articles are on the way. Check back soon.",
+    "readingTime": "{minutes} min read",
+    "relatedTitle": "Related articles",
+    "backToInsights": "Back to insights"
+  },
+  "Contact": {
+    "eyebrow": "Get in touch",
+    "title": "Let's talk about your growth",
+    "subtitle": "Tell me about your business and what you're trying to achieve — I'll get back to you personally.",
+    "directTitle": "Prefer to reach out directly?",
+    "whatsapp": "WhatsApp",
+    "email": "Email"
+  },
+  "Footer": {
+    "tagline": "Better ads. More customers. Measurable growth.",
+    "navTitle": "Site",
+    "connectTitle": "Connect",
+    "rights": "All rights reserved.",
+    "mostaql": "Mostaql profile"
+  },
+  "LanguageSwitcher": {
+    "label": "Language"
+  },
+  "NotFound": {
+    "title": "Page not found",
+    "description": "The page you're looking for doesn't exist or has moved.",
+    "cta": "Back to home"
+  }
+}

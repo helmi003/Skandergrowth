@@ -1,0 +1,273 @@
+{
+  "Metadata": {
+    "siteName": "Skander Ben Jannette",
+    "defaultTitle": "Skander Ben Jannette — Media Buyer & Expert en marketing à la performance",
+    "defaultDescription": "De meilleures publicités. Plus de clients. Une croissance mesurable. J'aide les entreprises à créer et gérer des campagnes Meta, Google et TikTok centrées sur des résultats business réels."
+  },
+  "Nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "caseStudies": "Études de cas",
+    "companies": "Entreprises",
+    "testimonials": "Témoignages",
+    "insights": "Ressources",
+    "contact": "Contact",
+    "cta": "Me contacter",
+    "results": "Résultats"
+  },
+  "Hero": {
+    "eyebrow": "Media Buyer & Expert en marketing à la performance",
+    "title": "De meilleures publicités. Plus de clients. Une croissance mesurable.",
+    "subtitle": "J'aide les entreprises et les boutiques à créer et gérer des campagnes Meta, Google et TikTok — centrées sur des résultats business réels, du premier clic jusqu'à la conversion.",
+    "chips": [
+      "Meta Ads",
+      "Google Ads",
+      "TikTok Ads",
+      "Suivi & Optimisation"
+    ],
+    "ctaPrimary": "Demander un audit gratuit de vos campagnes",
+    "ctaSecondary": "Réserver un appel",
+    "ctaCaption": "Nous passerons en revue votre configuration actuelle et identifierons les meilleures opportunités pour améliorer vos résultats.",
+    "available": "Disponible pour de nouveaux projets",
+    "statRoas": "ROAS — Snapchat",
+    "statPurchases": "achats en 19 jours"
+  },
+  "SocialProof": {
+    "title": "Une confiance établie sur plusieurs marchés et secteurs"
+  },
+  "PainPoints": {
+    "title": "Si l'une de ces situations vous parle, le problème n'est généralement pas votre budget.",
+    "items": [
+      "Vous dépensez en publicité, mais les ventes ne progressent pas au même rythme.",
+      "Votre coût d'acquisition client augmente avec le temps.",
+      "Vous changez sans cesse de créations ou d'audiences sans connaître la vraie raison des faibles résultats.",
+      "Vos campagnes fonctionnent bien, mais vous ne savez pas comment les faire grandir sans nuire à leur performance."
+    ],
+    "closing": "La publicité seule ne crée pas de croissance.",
+    "closingBold": "Stratégie + contenu créatif + suivi + optimisation continue : voilà ce qui crée une vraie croissance."
+  },
+  "Story": {
+    "eyebrow": "Mon parcours",
+    "title": "De la gestion de publicités à la construction de systèmes marketing",
+    "paragraphs": [
+      "J'ai commencé dans le marketing digital en gérant des pages de réseaux sociaux et de la publicité payante, puis je me suis spécialisé davantage dans le marketing à la performance et le media buying.",
+      "J'ai travaillé sur des projets dans différents secteurs et marchés — e-commerce, services, éducation et plus encore.",
+      "À chaque campagne, j'ai appris que le problème n'est presque jamais la publicité elle-même ; c'est souvent l'offre, le tunnel de conversion, le suivi, ou la façon dont les leads sont transformés en clients.",
+      "C'est pourquoi mon travail aujourd'hui ne se limite pas à faire tourner des publicités."
+    ],
+    "goal": "Mon objectif est de construire un système marketing mesurable, optimisable et évolutif."
+  },
+  "Solution": {
+    "eyebrow": "Le processus",
+    "title": "De la stratégie au scaling",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Audit & Analyse",
+        "description": "Nous examinons vos comptes publicitaires, vos systèmes de suivi, votre tunnel de conversion et la performance de vos créations pour identifier les points forts et les sources de gaspillage."
+      },
+      {
+        "number": "02",
+        "title": "Stratégie",
+        "description": "Nous définissons l'audience cible, l'offre, les bons canaux et la structure de campagne alignés sur vos objectifs business."
+      },
+      {
+        "number": "03",
+        "title": "Lancement",
+        "description": "Nous construisons les campagnes, mettons en place les systèmes de suivi, et établissons un cadre clair pour tester et mesurer la performance."
+      },
+      {
+        "number": "04",
+        "title": "Optimisation",
+        "description": "Nous analysons les données en continu, coupons ce qui ne fonctionne pas, développons ce qui performe bien, et testons de nouvelles opportunités de croissance."
+      },
+      {
+        "number": "05",
+        "title": "Scaling",
+        "description": "Une fois une formule gagnante et reproductible trouvée, nous augmentons le budget progressivement et de façon réfléchie, tout en préservant la performance."
+      }
+    ]
+  },
+  "Services": {
+    "eyebrow": "Services",
+    "title": "Comment je peux vous aider",
+    "viewAll": "Voir tous les services",
+    "problemLabel": "Le problème",
+    "deliverablesLabel": "Ce qui est inclus",
+    "learnMore": "En savoir plus",
+    "relatedCaseStudy": "Étude de cas associée"
+  },
+  "Companies": {
+    "eyebrow": "Entreprises & secteurs",
+    "title": "Marques et entreprises avec lesquelles j'ai travaillé",
+    "subtitle": "Dans l'e-commerce, les services, l'éducation et les services à domicile, au Golfe, en Afrique du Nord et au-delà."
+  },
+  "CaseStudies": {
+    "eyebrow": "Études de cas",
+    "title": "Des projets aux résultats mesurables",
+    "objective": "Objectif",
+    "strategy": "Stratégie",
+    "approach": "Approche",
+    "result": "Résultat",
+    "market": "Marché",
+    "industry": "Secteur",
+    "viewCaseStudy": "Voir l'étude de cas",
+    "viewAll": "Voir toutes les études de cas",
+    "evidence": "Preuves de campagne"
+  },
+  "Results": {
+    "eyebrow": "Résultats réels",
+    "title": "Des chiffres tirés des comptes publicitaires",
+    "subtitle": "Captures d'écran réelles de Meta, Google, TikTok, Snapchat et des outils de suivi — sans retouche.",
+    "all": "Tous",
+    "close": "Fermer",
+    "prev": "Précédent",
+    "next": "Suivant",
+    "zoom": "Agrandir l'image",
+    "showMore": "Voir plus",
+    "showLess": "Voir moins"
+  },
+  "Testimonials": {
+    "eyebrow": "Retours clients",
+    "title": "Ce que disent mes clients",
+    "intro": "Ce n'est pas moi qui affirme obtenir des résultats — ce sont mes clients qui parlent de leur expérience.",
+    "note": "Les résultats comptent, mais l'expérience client et notre façon de travailler ensemble comptent tout autant.",
+    "sourceLabel": "Avis vérifié sur",
+    "mostaqlTitle": "Envie d'en voir plus ?",
+    "mostaqlText": "Tous les avis et projets sont vérifiés sur Mostaql.",
+    "mostaqlReviews": "Tous les avis sur Mostaql",
+    "mostaqlPortfolio": "Portfolio sur Mostaql"
+  },
+  "WhyMe": {
+    "eyebrow": "Pourquoi travailler avec moi",
+    "title": "Pas seulement un media buyer",
+    "description": "Voici la réponse à la question que tout client potentiel se pose vraiment : « pourquoi vous choisir ? »",
+    "chainTitle": "Un système complet, pas seulement des publicités",
+    "chain": [
+      {
+        "title": "Objectif business",
+        "description": "On part du chiffre qui compte vraiment pour vous : ventes, leads ou réservations."
+      },
+      {
+        "title": "Stratégie marketing",
+        "description": "Audience, offre et canaux sont définis avant de dépenser le moindre euro."
+      },
+      {
+        "title": "Créatif",
+        "description": "Des angles et messages testés pour savoir ce qui convainc réellement votre audience."
+      },
+      {
+        "title": "Publicité payante",
+        "description": "Campagnes Meta, Google, TikTok et Snapchat avec une structure claire et scalable."
+      },
+      {
+        "title": "Suivi",
+        "description": "Pixel, Conversions API et événements d'application, pour des chiffres fiables."
+      },
+      {
+        "title": "Optimisation",
+        "description": "Couper le gaspillage, renforcer ce qui marche et scaler en toute confiance."
+      }
+    ],
+    "typicalTitle": "Un media buyer classique",
+    "typical": [
+      "Lance les publicités et attend les résultats",
+      "Se concentre sur les clics et les likes",
+      "Change les publicités sans connaître la vraie cause",
+      "Envoie des chiffres sans recommandations claires"
+    ],
+    "meTitle": "Travailler avec moi",
+    "me": [
+      "On part de votre objectif business",
+      "Focus sur les ventes, le CPA et le ROAS",
+      "Chaque décision appuyée par un suivi fiable",
+      "Un plan clair : quoi arrêter, quoi améliorer, et quand scaler"
+    ],
+    "closing": "Le succès ne se mesure pas au nombre de clics. Il se mesure aux résultats business.",
+    "dataDriven": "Des décisions basées sur les données"
+  },
+  "WhoIWorkWith": {
+    "eyebrow": "Avec qui je travaille",
+    "title": "Est-ce fait pour vous ?",
+    "fitTitle": "Je suis probablement fait pour vous si :",
+    "fit": [
+      "Vous avez une entreprise existante que vous voulez développer.",
+      "Vous avez un produit ou un service clair.",
+      "Vous êtes prêt à investir dans le marketing.",
+      "Vous aimez prendre des décisions basées sur les données.",
+      "Vous avez une réelle ambition de croissance."
+    ],
+    "notFitTitle": "Probablement pas fait pour vous si :",
+    "notFit": [
+      "Vous cherchez simplement quelqu'un pour « faire tourner des publicités » sans stratégie.",
+      "Vous voulez des résultats garantis sans tests.",
+      "Vous n'avez pas encore d'offre claire."
+    ]
+  },
+  "FinalCta": {
+    "title": "Imaginez savoir exactement où votre budget publicitaire est gaspillé.",
+    "instead": "Au lieu de vous demander « dois-je augmenter le budget ? », vous sauriez :",
+    "questions": [
+      "Quelle audience élargir ?",
+      "Quelle création mettre en pause ?",
+      "Quelle campagne mérite d'être scalée ?",
+      "À quel endroit du tunnel vous perdez des clients ?"
+    ],
+    "closing": "C'est le rôle que je souhaite jouer à vos côtés.",
+    "description": "Passons en revue votre stratégie marketing, analysons la performance de vos publicités, et identifions les opportunités qui peuvent vous aider à obtenir une meilleure croissance.",
+    "ctaPrimary": "Réserver un appel",
+    "whatsappNote": "Réponse rapide sur WhatsApp"
+  },
+  "About": {
+    "eyebrow": "À propos",
+    "title": "Skander Ben Jannette",
+    "role": "Media Buyer & Expert en marketing à la performance",
+    "photoPlaceholder": "Photo à venir",
+    "specializationsTitle": "Mes spécialisations",
+    "specializations": [
+      "Meta Ads",
+      "Google Ads",
+      "TikTok Ads",
+      "Suivi & Optimisation",
+      "Marketing à la performance",
+      "Stratégie marketing"
+    ],
+    "howIWorkTitle": "Ma méthode de travail",
+    "howIWork": "Audit, stratégie, lancement, optimisation, scaling — chaque mission suit le même processus rigoureux, appuyé par un suivi qui montre précisément ce qui fonctionne.",
+    "whoIHelpTitle": "Qui j'accompagne",
+    "whoIHelp": "Des entreprises et boutiques dans l'e-commerce, les services, l'éducation et les services à domicile, qui ont une activité réelle et une offre claire, et qui veulent grandir grâce aux données plutôt qu'aux suppositions."
+  },
+  "Insights": {
+    "eyebrow": "Ressources",
+    "title": "Ressources marketing",
+    "subtitle": "Des notes sur le marketing à la performance, le media buying et la publicité payante — bientôt disponibles.",
+    "empty": "De nouveaux articles arrivent bientôt. Revenez plus tard.",
+    "readingTime": "{minutes} min de lecture",
+    "relatedTitle": "Articles liés",
+    "backToInsights": "Retour aux ressources"
+  },
+  "Contact": {
+    "eyebrow": "Me contacter",
+    "title": "Parlons de votre croissance",
+    "subtitle": "Parlez-moi de votre entreprise et de vos objectifs — je vous répondrai personnellement.",
+    "directTitle": "Vous préférez me contacter directement ?",
+    "whatsapp": "WhatsApp",
+    "email": "Email"
+  },
+  "Footer": {
+    "tagline": "De meilleures publicités. Plus de clients. Une croissance mesurable.",
+    "navTitle": "Site",
+    "connectTitle": "Réseaux",
+    "rights": "Tous droits réservés.",
+    "mostaql": "Profil Mostaql"
+  },
+  "LanguageSwitcher": {
+    "label": "Langue"
+  },
+  "NotFound": {
+    "title": "Page introuvable",
+    "description": "La page que vous cherchez n'existe pas ou a été déplacée.",
+    "cta": "Retour à l'accueil"
+  }
+}

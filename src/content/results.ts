@@ -1,0 +1,186 @@
+import type { ResultShot } from "@/types/content";
+
+// Real ad-account screenshots (sources in /docs). `metric` is the headline
+// number shown on the card; keep the numbers exactly as they appear in the screenshot.
+export const results: ResultShot[] = [
+  {
+    src: "/images/dashboards/snapchat-purchases-roas.jpeg",
+    width: 1600,
+    height: 792,
+    platform: "Snapchat",
+    metric: { en: "32.54x ROAS", fr: "ROAS 32.54x", ar: "ROAS 32.54x" },
+    title: {
+      en: "407 purchases and 48,112 SAR in revenue from 1,478 SAR ad spend",
+      fr: "407 achats et 48 112 SAR de revenus pour 1 478 SAR dépensés",
+      ar: "407 عملية شراء و48,112 ر.س مبيعات مقابل إنفاق 1,478 ر.س",
+    },
+  },
+  {
+    src: "/images/dashboards/meta-ads-trend-store.jpeg",
+    width: 1600,
+    height: 684,
+    platform: "Meta",
+    metric: { en: "47.02x ROAS", fr: "ROAS 47.02x", ar: "ROAS 47.02x" },
+    title: {
+      en: "Creative testing for an e-commerce store — best reel hit 47x ROAS",
+      fr: "Tests créatifs pour une boutique en ligne — le meilleur reel atteint 47x de ROAS",
+      ar: "اختبار محتوى إعلاني لمتجر إلكتروني — أفضل Reel حقق 47x عائد",
+    },
+  },
+  {
+    src: "/images/dashboards/meta-skincare-purchases.jpeg",
+    width: 1600,
+    height: 832,
+    platform: "Meta",
+    metric: { en: "21 purchases", fr: "21 achats", ar: "21 عملية شراء" },
+    title: {
+      en: "Skin-care dark-ads campaign at 26.32 SAR per purchase",
+      fr: "Campagne dark ads soins de la peau à 26,32 SAR par achat",
+      ar: "حملة Dark Ads لمنتجات العناية بالبشرة بتكلفة 26.32 ر.س لكل عملية شراء",
+    },
+  },
+  {
+    src: "/images/dashboards/meta-purchases-saudi.jpeg",
+    width: 1600,
+    height: 830,
+    platform: "Meta",
+    metric: { en: "16 purchases", fr: "16 achats", ar: "16 عملية شراء" },
+    title: {
+      en: "Luban Al Ghazal — website purchases in the Saudi market",
+      fr: "Luban Al Ghazal — achats sur le site dans le marché saoudien",
+      ar: "لبان الغزال — عمليات شراء من الموقع في السوق السعودي",
+    },
+  },
+  {
+    src: "/images/dashboards/meta-messaging-campaign.jpeg",
+    width: 1600,
+    height: 867,
+    platform: "Meta",
+    metric: { en: "205 conversations", fr: "205 conversations", ar: "205 محادثة" },
+    title: {
+      en: "Messaging campaign at 1.58 SAR per conversation — 4.6% below peers",
+      fr: "Campagne messages à 1,58 SAR par conversation — 4,6 % sous la moyenne",
+      ar: "حملة رسائل بتكلفة 1.58 ر.س للمحادثة — أقل بـ4.6% من المنافسين",
+    },
+  },
+  {
+    src: "/images/dashboards/google-ads-app-promo-1.jpeg",
+    width: 1280,
+    height: 552,
+    platform: "Google",
+    metric: { en: "7.42% CTR", fr: "CTR 7.42%", ar: "CTR 7.42%" },
+    title: {
+      en: "App promotion: 5.77K clicks and 77.8K impressions at 0.21 SAR CPC",
+      fr: "Promotion d'application : 5,77K clics et 77,8K impressions à 0,21 SAR le clic",
+      ar: "ترويج تطبيق: 5.77 ألف نقرة و77.8 ألف ظهور بتكلفة 0.21 ر.س للنقرة",
+    },
+  },
+  {
+    src: "/images/dashboards/tiktok-app-promo.jpeg",
+    width: 1150,
+    height: 816,
+    platform: "TikTok",
+    metric: { en: "412 conversions", fr: "412 conversions", ar: "412 تحويلًا" },
+    title: {
+      en: "GARO app promotion — 254K impressions and 1,371 clicks",
+      fr: "Promotion de l'app GARO — 254K impressions et 1 371 clics",
+      ar: "ترويج تطبيق GARO — 254 ألف ظهور و1,371 نقرة",
+    },
+  },
+  {
+    src: "/images/dashboards/tiktok-campaigns-sar.jpeg",
+    width: 1600,
+    height: 792,
+    platform: "TikTok",
+    metric: { en: "0.74 SAR CPC", fr: "CPC 0.74 SAR", ar: "0.74 ر.س للنقرة" },
+    title: {
+      en: "Gaming campaign — 50K impressions and 1,273 clicks",
+      fr: "Campagne gaming — 50K impressions et 1 273 clics",
+      ar: "حملة ألعاب — 50 ألف ظهور و1,273 نقرة",
+    },
+  },
+  {
+    src: "/images/dashboards/meta-app-installs.jpeg",
+    width: 1600,
+    height: 728,
+    platform: "Meta",
+    metric: { en: "$1.16 / install", fr: "1,16 $ / installation", ar: "$1.16 للتثبيت" },
+    title: {
+      en: "App promotion campaign — 190 mobile app installs",
+      fr: "Campagne de promotion d'application — 190 installations",
+      ar: "حملة ترويج تطبيق — 190 تثبيتًا",
+    },
+  },
+  {
+    src: "/images/dashboards/social-insights-3.jpeg",
+    width: 937,
+    height: 407,
+    platform: "Organic",
+    metric: { en: "3.7M views", fr: "3,7M vues", ar: "3.7 مليون مشاهدة" },
+    title: {
+      en: "586.6K reach in three months, 95% of views from ads",
+      fr: "586,6K de portée en trois mois, 95 % des vues via la publicité",
+      ar: "وصول 586.6 ألف خلال ثلاثة أشهر، 95% من المشاهدات عبر الإعلانات",
+    },
+  },
+  {
+    src: "/images/dashboards/social-insights-2.jpeg",
+    width: 800,
+    height: 470,
+    platform: "Organic",
+    metric: { en: "1.7M views", fr: "1,7M vues", ar: "1.7 مليون مشاهدة" },
+    title: {
+      en: "903.4K reach in 28 days, 93% from non-followers",
+      fr: "903,4K de portée en 28 jours, 93 % de non-abonnés",
+      ar: "وصول 903.4 ألف خلال 28 يومًا، 93% من غير المتابعين",
+    },
+  },
+  {
+    src: "/images/dashboards/social-insights-1.jpeg",
+    width: 935,
+    height: 482,
+    platform: "Organic",
+    metric: { en: "678K views", fr: "678K vues", ar: "678 ألف مشاهدة" },
+    title: {
+      en: "Reach up 340% with 88% of views coming organically",
+      fr: "Portée en hausse de 340 %, 88 % des vues en organique",
+      ar: "ارتفاع الوصول 340% مع 88% من المشاهدات بشكل عضوي",
+    },
+  },
+  {
+    src: "/images/dashboards/app-analytics-garo.jpeg",
+    width: 1600,
+    height: 883,
+    platform: "Tracking",
+    metric: { en: "1,259 active users", fr: "1 259 utilisateurs actifs", ar: "1,259 مستخدمًا نشطًا" },
+    title: {
+      en: "AppsFlyer attribution for GARO — 1,212 organic installs",
+      fr: "Attribution AppsFlyer pour GARO — 1 212 installations organiques",
+      ar: "تتبع AppsFlyer لتطبيق GARO — 1,212 تثبيتًا عضويًا",
+    },
+  },
+  {
+    src: "/images/dashboards/meta-events-garo.jpeg",
+    width: 1600,
+    height: 788,
+    platform: "Tracking",
+    metric: { en: "Meta Pixel", fr: "Meta Pixel", ar: "Meta Pixel" },
+    title: {
+      en: "Meta Pixel and events set up and verified for GARO",
+      fr: "Meta Pixel et événements configurés et vérifiés pour GARO",
+      ar: "إعداد Meta Pixel والأحداث والتحقق منها لتطبيق GARO",
+    },
+  },
+  {
+    src: "/images/dashboards/tiktok-verified-account.jpeg",
+    width: 1600,
+    height: 653,
+    platform: "Tracking",
+    metric: { en: "Verified", fr: "Vérifié", ar: "حساب موثّق" },
+    title: {
+      en: "TikTok business account set up and verified (SA | SAR)",
+      fr: "Compte business TikTok configuré et vérifié (SA | SAR)",
+      ar: "إعداد حساب TikTok للأعمال والتحقق منه (السعودية | ر.س)",
+    },
+  },
+];
