@@ -7,7 +7,7 @@ export function Story() {
   const paragraphs = t.raw("paragraphs") as string[];
 
   return (
-    <section id="about" className="bg-[var(--color-paper-soft)] py-16 sm:py-24">
+    <section id="about" className="bg-[var(--color-paper)] py-16 sm:py-24">
       <Container className="grid gap-10 lg:grid-cols-[0.9fr_1.1fr] lg:items-start">
         <div data-reveal="start" className="lg:sticky lg:top-28">
           <SectionHeading eyebrow={t("eyebrow")} title={t("title")} />

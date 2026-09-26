@@ -14,7 +14,12 @@
     "insights": "Ressources",
     "contact": "Contact",
     "cta": "Me contacter",
-    "results": "Résultats"
+    "results": "Résultats",
+    "menu": "Menu",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "whatsapp": "WhatsApp",
+    "menuTagline": "Media Buyer & Performance Marketer"
   },
   "Hero": {
     "eyebrow": "Media Buyer & Expert en marketing à la performance",
@@ -24,6 +29,11 @@
       "Meta Ads",
       "Google Ads",
       "TikTok Ads",
+      "Stratégie Marketing",
+      "Snapchat Ads",
+      "Google Analytics",
+      "Création de contenu",
+      "SEO",
       "Suivi & Optimisation"
     ],
     "ctaPrimary": "Demander un audit gratuit de vos campagnes",
@@ -137,7 +147,11 @@
     "mostaqlTitle": "Envie d'en voir plus ?",
     "mostaqlText": "Tous les avis et projets sont vérifiés sur Mostaql.",
     "mostaqlReviews": "Tous les avis sur Mostaql",
-    "mostaqlPortfolio": "Portfolio sur Mostaql"
+    "mostaqlPortfolio": "Portfolio sur Mostaql",
+    "viewReview": "Voir l'avis original",
+    "hideReview": "Masquer l'avis",
+    "zoomReview": "Agrandir la capture de l'avis",
+    "close": "Fermer"
   },
   "WhyMe": {
     "eyebrow": "Pourquoi travailler avec moi",

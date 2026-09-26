@@ -9,7 +9,7 @@ export function WhoIWorkWith() {
   const notFit = t.raw("notFit") as string[];
 
   return (
-    <section className="bg-[var(--color-paper-soft)] py-16 sm:py-24">
+    <section className="bg-[var(--color-paper)] py-16 sm:py-24">
       <Container>
         <div data-reveal>
           <SectionHeading eyebrow={t("eyebrow")} title={t("title")} align="center" className="mx-auto" />

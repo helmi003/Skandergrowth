@@ -21,7 +21,7 @@ export function SiteFooter() {
   ] as const;
 
   return (
-    <footer className="border-t border-[var(--color-border)] bg-[var(--color-paper-soft)]">
+    <footer className="border-t border-[var(--color-border)] bg-[var(--color-paper)]">
       <Container className="grid gap-10 py-14 sm:grid-cols-3">
         <div className="flex flex-col gap-3">
           <span className="text-base font-bold">Skander Ben Jannette</span>

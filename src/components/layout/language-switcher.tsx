@@ -12,22 +12,41 @@ const labels: Record<string, string> = {
   ar: "AR",
 };
 
-export function LanguageSwitcher({ className }: { className?: string }) {
+// Full names for the roomier segmented variant (mobile menu).
+const fullLabels: Record<string, string> = {
+  en: "English",
+  fr: "Français",
+  ar: "العربية",
+};
+
+export function LanguageSwitcher({
+  className,
+  variant = "compact",
+}: {
+  className?: string;
+  variant?: "compact" | "segmented";
+}) {
   const t = useTranslations("LanguageSwitcher");
   const locale = useLocale();
   const router = useRouter();
   const pathname = usePathname();
   const params = useParams();
+  const segmented = variant === "segmented";
 
   return (
     <div
-      className={cn("flex items-center gap-1", className)}
+      className={cn(
+        "flex items-center gap-1",
+        segmented && "w-full rounded-full border border-border bg-paper-soft p-1",
+        className
+      )}
       role="group"
       aria-label={t("label")}
     >
       {routing.locales.map((loc) => (
         <button
           key={loc}
+          lang={loc}
           onClick={() =>
             router.replace(
               // @ts-expect-error -- dynamic pathname param passthrough
@@ -37,13 +56,15 @@ export function LanguageSwitcher({ className }: { className?: string }) {
           }
           aria-current={loc === locale ? "true" : undefined}
           className={cn(
-            "rounded-full px-2.5 py-1 text-xs font-semibold transition-colors",
+            "rounded-full font-semibold transition-colors",
+            segmented ? "flex-1 py-2 text-sm" : "px-2.5 py-1 text-xs",
             loc === locale
-              ? "bg-[var(--color-primary)] text-[var(--color-primary-foreground)]"
-              : "text-[var(--color-ink-soft)] hover:bg-[var(--color-paper-soft)]"
+              ? "bg-primary text-primary-foreground shadow-sm"
+              : "text-ink-soft hover:bg-paper-soft hover:text-ink",
+            segmented && loc !== locale && "hover:bg-paper"
           )}
         >
-          {labels[loc]}
+          {segmented ? fullLabels[loc] : labels[loc]}
         </button>
       ))}
     </div>

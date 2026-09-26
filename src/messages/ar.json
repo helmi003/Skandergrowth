@@ -14,7 +14,12 @@
     "insights": "مقالات",
     "contact": "تواصل معي",
     "cta": "تواصل معي",
-    "results": "النتائج"
+    "results": "النتائج",
+    "menu": "القائمة",
+    "openMenu": "فتح القائمة",
+    "closeMenu": "إغلاق القائمة",
+    "whatsapp": "واتساب",
+    "menuTagline": "Media Buyer & Performance Marketer"
   },
   "Hero": {
     "eyebrow": "Media Buyer & Performance Marketer",
@@ -24,6 +29,11 @@
       "إعلانات Meta",
       "إعلانات Google",
       "إعلانات TikTok",
+      "Strategy Marketing",
+      "إعلانات Snapchat",
+      "Google Analytics",
+      "صناعة المحتوى",
+      "SEO",
       "التتبع والتحسين"
     ],
     "ctaPrimary": "اطلب تقييم مجاني لحملاتك",
@@ -137,7 +147,11 @@
     "mostaqlTitle": "تريد رؤية المزيد؟",
     "mostaqlText": "كل التقييمات والمشاريع موثّقة على منصة مستقل.",
     "mostaqlReviews": "كل التقييمات على مستقل",
-    "mostaqlPortfolio": "معرض الأعمال على مستقل"
+    "mostaqlPortfolio": "معرض الأعمال على مستقل",
+    "viewReview": "عرض التقييم الأصلي",
+    "hideReview": "إخفاء التقييم",
+    "zoomReview": "تكبير صورة التقييم",
+    "close": "إغلاق"
   },
   "WhyMe": {
     "eyebrow": "علاش تختارني",

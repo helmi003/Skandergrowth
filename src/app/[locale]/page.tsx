@@ -29,12 +29,12 @@ export default async function HomePage({
       <Hero />
       <SocialProof />
       <Companies />
+      <Results />
       <PainPoints />
       <Story />
       <Solution />
       <ServicesPreview />
       <CaseStudiesPreview />
-      <Results />
       <Testimonials />
       <WhyMe />
       <WhoIWorkWith />

@@ -11,7 +11,7 @@ export function Testimonials() {
   const t = useTranslations("Testimonials");
 
   return (
-    <section id="testimonials" className="bg-[var(--color-paper-soft)] py-16 sm:py-24">
+    <section id="testimonials" className="bg-[var(--color-paper)] py-16 sm:py-24">
       <Container>
         <div data-reveal>
         <SectionHeading

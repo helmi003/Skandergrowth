@@ -8,7 +8,7 @@ export function CaseStudiesPreview() {
   const t = useTranslations("CaseStudies");
 
   return (
-    <section id="case-studies" className="py-16 sm:py-24">
+    <section id="case-studies" className="bg-[var(--color-paper-soft)] py-16 sm:py-24">
       <Container>
         <div data-reveal>
           <SectionHeading eyebrow={t("eyebrow")} title={t("title")} />

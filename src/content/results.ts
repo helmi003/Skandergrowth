@@ -4,6 +4,18 @@ import type { ResultShot } from "@/types/content";
 // number shown on the card; keep the numbers exactly as they appear in the screenshot.
 export const results: ResultShot[] = [
   {
+    src: "/images/dashboards/meta-app-installs.jpeg",
+    width: 1600,
+    height: 728,
+    platform: "Meta",
+    metric: { en: "$1.16 / install", fr: "1,16 $ / installation", ar: "$1.16 للتثبيت" },
+    title: {
+      en: "App promotion campaign — 190 mobile app installs",
+      fr: "Campagne de promotion d'application — 190 installations",
+      ar: "حملة ترويج تطبيق — 190 تثبيتًا",
+    },
+  },
+  {
     src: "/images/dashboards/snapchat-purchases-roas.jpeg",
     width: 1600,
     height: 792,
@@ -97,18 +109,6 @@ export const results: ResultShot[] = [
       en: "Gaming campaign — 50K impressions and 1,273 clicks",
       fr: "Campagne gaming — 50K impressions et 1 273 clics",
       ar: "حملة ألعاب — 50 ألف ظهور و1,273 نقرة",
-    },
-  },
-  {
-    src: "/images/dashboards/meta-app-installs.jpeg",
-    width: 1600,
-    height: 728,
-    platform: "Meta",
-    metric: { en: "$1.16 / install", fr: "1,16 $ / installation", ar: "$1.16 للتثبيت" },
-    title: {
-      en: "App promotion campaign — 190 mobile app installs",
-      fr: "Campagne de promotion d'application — 190 installations",
-      ar: "حملة ترويج تطبيق — 190 تثبيتًا",
     },
   },
   {
