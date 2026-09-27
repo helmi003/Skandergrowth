@@ -19,7 +19,7 @@ export function Results() {
   }));
 
   return (
-    <section id="results" className="relative overflow-hidden bg-[var(--color-paper)] py-16 sm:py-24">
+    <section id="results" className="relative overflow-hidden bg-paper-soft py-16 sm:py-24">
       <div className="bg-grid pointer-events-none absolute inset-0 opacity-60 [mask-image:linear-gradient(to_bottom,#000,transparent_40%)]" />
       <Container className="relative">
         <div data-reveal>

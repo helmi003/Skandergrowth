@@ -32,7 +32,7 @@ export function WhyMe() {
   const me = t.raw("me") as string[];
 
   return (
-    <section className="relative overflow-clip bg-[var(--color-paper-soft)] py-16 sm:py-28">
+    <section className="relative overflow-clip bg-paper py-16 sm:py-28">
       <div className="pointer-events-none absolute start-1/2 top-24 h-[480px] w-[480px] -translate-x-1/2 rounded-full bg-[var(--color-primary)]/[0.07] blur-3xl rtl:translate-x-1/2" />
 
       <Container className="relative grid gap-12 lg:grid-cols-[0.85fr_1.15fr] lg:gap-16">

@@ -40,7 +40,7 @@ export function Companies() {
   const locale = useLocale() as Locale;
 
   return (
-    <section id="companies" className="overflow-hidden border-y border-[var(--color-border)] bg-[var(--color-paper-soft)] py-16 sm:py-24">
+    <section id="companies" className="overflow-hidden border-y border-border bg-paper py-16 sm:py-24">
       <Container data-reveal>
         <SectionHeading
           eyebrow={t("eyebrow")}

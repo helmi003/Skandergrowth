@@ -28,16 +28,16 @@ export default async function HomePage({
       <PersonJsonLd />
       <Hero />
       <SocialProof />
-      <Companies />
       <Results />
+      <Companies />
+      <CaseStudiesPreview />
       <PainPoints />
-      <Story />
       <Solution />
       <ServicesPreview />
-      <CaseStudiesPreview />
       <Testimonials />
       <WhyMe />
       <WhoIWorkWith />
+      <Story />
       <FinalCta />
       <ContactSection />
     </>
